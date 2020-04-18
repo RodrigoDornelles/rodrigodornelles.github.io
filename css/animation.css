@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: white;
+    
+    animation: noise 0.5s steps(10) infinite;
+}
+
+@keyframes noise
+{
+    0%{
+        background-image: url("../img/noise.png");
+        background-position: 0 0;
+    }
+
+    100%{
+        background-image: url("../img/noise.png");
+        background-position: 100% 100%;
+    }
+}
+
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: none;
+    display: block;
+    padding: 2px 4px;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+a:hover{
+    background-color: blue;
+    color: rgba(255, 255, 255, 1);
+}

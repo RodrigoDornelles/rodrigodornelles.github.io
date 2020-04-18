@@ -3,18 +3,17 @@ body{
     padding: 0;
     background: white;
     
+    background-image: url("../img/noise.png");
     animation: noise 0.5s steps(10) infinite;
 }
 
 @keyframes noise
 {
     0%{
-        background-image: url("../img/noise.png");
         background-position: 0 0;
     }
 
     100%{
-        background-image: url("../img/noise.png");
         background-position: 100% 100%;
     }
 }

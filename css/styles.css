@@ -6,7 +6,7 @@ body {
     float:left;
     object-fit: cover;
     border-radius: 50%;
-    max-width: auto;
+    width: auto;
     margin: 0;
     margin-right: 28px;
 }
@@ -30,6 +30,16 @@ body {
     width: 100%;
 }
 
+#my-link{
+    display: inline-block;
+    text-align: center;
+}
+
+#my-link a{
+    display: inline-block;
+    color: white;
+}
+
 
 h2{
     text-transform: uppercase;
@@ -49,10 +59,15 @@ hr {
     border-width: 1px;
 }
 
+p {
+    text-align: justify;
+}
+
 .card {
     color: white;
     margin: 10px;
     margin-right: 20px;
+    margin-bottom: 30px;
 
     background: rgb(255,0,200);
     background: -moz-linear-gradient(45deg, rgba(255,0,200,0.9) 0%, rgba(143,202,225,0.9) 25%, rgba(225,143,225,0.9) 75%, rgba(255,0,200,0.9) 100%);

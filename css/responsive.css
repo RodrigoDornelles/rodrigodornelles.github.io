@@ -11,16 +11,6 @@
     width: 100%;
 }
 
-@media (min-width: 1124px) {
-    .flex{
-        justify-content: start;
-        align-items: center;
-        flex-direction: column;
-        height: 600px;
-    }
-}
-
-
 input[type=text], select, textarea {
     padding: 10px 10px;
     margin: 10px 0;
@@ -51,4 +41,36 @@ input[type=submit]:hover {
 
 label {
     display: none;
+}
+
+/** large screen **/
+@media (min-width: 1124px) {
+    .flex{
+        justify-content: start;
+        align-items: center;
+        flex-direction: column;
+        height: 640px;
+    }
+
+    #my-github{
+        margin-top: -68px;
+    }
+}
+
+
+/** small screen **/
+@media (max-width: 560px) {
+    #my-profile{
+        text-align: center;
+    }
+
+    #my-profile img{
+        float: none;
+        width: 40%;
+        margin: 0;
+    }
+
+    #my-profile a {
+        text-align: left;
+    }
 }

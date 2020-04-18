@@ -1,0 +1,23 @@
+{
+  "name": "Rodrigo Dornelles Website",
+  "homepage": "https://rodrigo.dornelles.me",
+  "authors": [
+    "RodrigoDornelles <rodrigo@dornelles.me>"
+  ],
+  "description": "my personal website",
+  "main": "website",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pure": "^1.0.1",
+    "font-awesome": "^5.13.0",
+    "roboto-fontface": "^0.10.0"
+  }
+}

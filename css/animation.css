@@ -1,9 +1,8 @@
 body{
     margin: 0;
     padding: 0;
-    background: white;
     
-    background-image: url("../img/noise.png");
+    background-image: linear-gradient(to right, rgba(0, 7, 63, .9), rgba(0, 7, 63, .9)), url("../img/noise.png");
     animation: noise 0.5s steps(10) infinite;
 }
 
@@ -29,6 +28,6 @@ a {
 }
 
 a:hover{
-    background-color: blue;
+    background-color: #0324D9;
     color: rgba(255, 255, 255, 1);
 }

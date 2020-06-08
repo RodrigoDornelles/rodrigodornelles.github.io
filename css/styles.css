@@ -69,10 +69,10 @@ p {
     margin-right: 20px;
     margin-bottom: 30px;
 
-    background: rgb(255,0,200);
-    background: -moz-linear-gradient(45deg, rgba(255,0,200,0.9) 0%, rgba(143,202,225,0.9) 25%, rgba(225,143,225,0.9) 75%, rgba(255,0,200,0.9) 100%);
-    background: -webkit-linear-gradient(45deg, rgba(255,0,200,0.9) 0%, rgba(143,202,225,0.9) 25%, rgba(225,143,225,0.9) 75%, rgba(255,0,200,0.9) 100%);
-    background: linear-gradient(45deg, rgba(255,0,200,0.9) 0%, rgba(143,202,225,0.9) 25%, rgba(225,143,225,0.9) 75%, rgba(255,0,200,0.9) 100%);
+    background: rgb(243,108,235);
+    background: -moz-linear-gradient(45deg, rgba(243,108,235,0.9) 0%, rgba(5,150,241,0.9) 25%, rgba(5,150,241,0.9) 75%, rgba(243,108,235,0.9) 100%);
+    background: -webkit-linear-gradient(45deg, rgba(243,108,235,0.9) 0%, rgba(5,150,241,0.9) 25%, rgba(5,150,241,0.9) 75%, rgba(243,108,235,0.9) 100%);
+    background: linear-gradient(45deg, rgba(243,108,235,0.9) 0%, rgba(5,150,241,0.9) 25%, rgba(5,150,241,0.9) 75%, rgba(243,108,235,0.9) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff00c8",endColorstr="#ff00c8",GradientType=1);
 
     display: inline-block;

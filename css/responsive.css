@@ -11,34 +11,6 @@
     width: 100%;
 }
 
-input[type=text], select, textarea {
-    padding: 10px 10px;
-    margin: 10px 0;
-    display: inline-block;
-    border: 1px solid white;
-    box-sizing: border-box;
-    width: 100%;
-    resize: none;
-    font-size: 140%;
-    text-transform: uppercase;
-}
-
-input[type=submit] {
-    font-size: 140%;
-    width: 100%;
-    background-color: rgba(0, 0, 255, 0.7);
-    color: white;
-    padding: 14px 20px;
-    margin: 8px 0;
-    border: none;
-    cursor: pointer;
-    text-transform: uppercase;
-}
-
-input[type=submit]:hover {
-    background-color: rgba(0, 0, 255, 1);
-}
-
 label {
     display: none;
 }
@@ -53,7 +25,7 @@ label {
     }
 
     #my-github{
-        margin-top: -68px;
+        margin-top: -72px;
     }
 }
 

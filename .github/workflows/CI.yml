@@ -1,0 +1,43 @@
+name: CI
+
+on: 
+  push:
+    branches:
+      - master
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  pages:
+      runs-on: ubuntu-latest
+      steps:
+      -
+        name: Checkout
+        uses: actions/checkout@v3
+      -
+        name: Project install
+        run: npm install
+      -
+        name: Project build
+        run: npm run build
+      -
+        name: Setup Pages
+        uses: actions/configure-pages@v3
+      -
+        name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: '_site'
+      -
+        id: deployment
+        name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v2

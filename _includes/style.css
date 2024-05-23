@@ -1,0 +1,64 @@
+*, *:after, *:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    -webkit-print-color-adjust: exact;
+}
+
+p {
+    font-size: 90%;
+    text-align: justify;
+}
+
+a, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: blue;
+}
+
+blockquote {
+    font-size: 80%;
+    color: #333;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+}
+
+h1 {
+    font-size: 110%;
+    text-align: center;
+}
+
+h2 {
+    font-size: 95%;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    background-color: #222;
+    padding: 2px;
+}
+
+h3 {
+    font-size: 95%;
+}
+
+@media screen {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+ 
+    main {
+        max-width: 794px;
+        margin: 0;   
+    }
+}

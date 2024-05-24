@@ -20,13 +20,39 @@ Sou um profissional com 7 anos de experiência comprometido com a integridade e 
 
 Possuo vasta experiência em servidores privados (VPS), cloud (Oracle) e on-premise. Tenho um histórico comprovado de arquitetar servidores de produção e desenvolvimento, desde a instalação física de dispositivos até a configuração de ambientes dinâmicos e automatizados. Minha expertise abrange todas as etapas do processo, garantindo infraestrutura robusta e eficiente.
 
+<!--
+
 ### Desenvolvimento de jogos
 
 Sou um entusiasta no desenvolvimento de jogos, com um profundo interesse em explorar como os jogos superam limitações técnicas através de novas mecânicas. No meu tempo livre, dedico-me a criar jogos homebrew para consoles antigos, desafiando minha criatividade e capacidade de extrair o máximo do hardware disponível.
 
+-->
+
 ### Soft Skills e Liderança
 
 Tenho habilidade para unir pessoas e impulsionar projetos. Faço uma ponte entre times, pesquisando constantemente maneiras de aprimorar processos e me envolvendo profundamente em projetos que me interessam. Costumo naturalmente assumir papéis de liderança em iniciativas de melhorias.
+
+## Experiência profissional
+
+### Analista em SRE DevSecOps - Groovy, Python, Lua (09/2023 - atual) <br/>Creare Sistemas LTDA.
+
+> Empresa do setor de logistica e inteligencia do setor agro.
+
+Reconhecido como funcionário destaque no primeiro mês de trabalho por trazer melhorias no processo de desenvolvimento de softwares na empresa, Pesquisar sobre migração de servidores para processadores ARM a fim de reduzir custos e melhorar o desempenho, Pesquisa e elaboração de técnicas e documentações para compliance da ISO 27001, Desenvolvimento de sistema de auditoria para os produtos utilizados pelos clientes da empresa, Inovar os pipelines permitindo uma configuração mais simples de build para java, kotlin, flutter, node, typescript. (tanto mobile quanto backend e backend), Integração entre os sistemas devops como kubernets keycloak, ldap, github, sonarqube, nexus, jenkin e jira.
+
+### Analista em desenvolvimento de firmware - C ANSI, Python (04/2022 - 03/2023)<br/>Perto S.A. Periféricos para Automação
+
+> Industria multinacional brasileira referencia no setor bancário.
+
+Desenvolvimento de melhorias no sistema antifraude utilizado em caixas eletrônicos (ATMs), adicionar suporte de novos fornecedores para firmware de impressoras térmicas e anti-fraude, Pesquisar inteligência artificial na utilização em sensores de estacionamento e cofres inteligentes, Começar uma nova cultura devops de implementação de testes unitários e automatização de CI/CD no time de engenharia.
+
+### Analista em desenvolvimento web backend - PHP, Javascript (09/2017 - 03/2022)<br/>Dynamika Soluções WEB LTDA.
+
+> Empresa de comunicação do ramo de licitações para sites intitucionais.
+
+Responsabilidade de arquitetar e acompanhar infraestrutura para suportar em torno 2.0000.000 (dois milhões) de acessos diários, liderar equipe com 4 pessoas, e supervisionar o desenvolvimento dos projetos. Desenvolvimento e publicação de projetos web em ambiente de produção, foram mais de 30 prefeituras, também mais de 15 câmaras e conselhos profissionais.
+
+<br/><br/>
 
 ## Projetos e Conquistas
 
@@ -59,26 +85,6 @@ Sou o principal mantenedor do plugin oficial [fastify-elasticsearch](https://git
 > PCBWAY é uma das maiores empresas de PCB no mundo.
 
 Organizadora da competição foi a marca chinesa PCBWAY, fabricante de placas de circuitos, disputa ocorreu entre diversos participantes inclusive renomados em desafios de construção de “badges”.
-
-## Experiência profissional
-
-### Analista em SRE DevSecOps - Groovy, Python, Lua (09/2023 - atual) <br/>Creare Sistemas LTDA.
-
-> Empresa do setor de logistica e inteligencia do setor agro.
-
-Reconhecido como funcionário destaque no primeiro mês de trabalho por trazer melhorias no processo de desenvolvimento de softwares na empresa, Pesquisar sobre migração de servidores para processadores ARM a fim de reduzir custos e melhorar o desempenho, Pesquisa e elaboração de técnicas e documentações para compliance da ISO 27001, Desenvolvimento de sistema de auditoria para os produtos utilizados pelos clientes da empresa, Inovar os pipelines permitindo uma configuração mais simples de build para java, kotlin, flutter, node, typescript. (tanto mobile quanto backend e backend), Integração entre os sistemas devops como kubernets keycloak, ldap, github, sonarqube, nexus, jenkin e jira.
-
-### Analista em desenvolvimento de firmware - C ANSI, Python (04/2022 - 03/2023)<br/>Perto S.A. Periféricos para Automação
-
-> Industria multinacional brasileira referencia no setor bancário.
-
-Desenvolvimento de melhorias no sistema antifraude utilizado em caixas eletrônicos (ATMs), adicionar suporte de novos fornecedores para firmware de impressoras térmicas e anti-fraude, Pesquisar inteligência artificial na utilização em sensores de estacionamento e cofres inteligentes, Começar uma nova cultura devops de implementação de testes unitários e automatização de CI/CD no time de engenharia.
-
-### Analista em desenvolvimento web backend - PHP, Javascript (09/2017 - 03/2022)<br/>Dynamika Soluções WEB LTDA.
-
-> Empresa de comunicação do ramo de licitações para sites intitucionais.
-
-Responsabilidade de arquitetar e acompanhar infraestrutura para suportar em torno 2.0000.000 (dois milhões) de acessos diários, liderar equipe com 4 pessoas, e supervisionar o desenvolvimento dos projetos. Desenvolvimento e publicação de projetos web em ambiente de produção, foram mais de 30 prefeituras, também mais de 15 câmaras e conselhos profissionais.
 
 ## Formação acadêmica
 

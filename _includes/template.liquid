@@ -1,10 +1,28 @@
 <!DOCTYPE html>
+{% assign unixtimestamp = 'now' | date: '%s' %}
+{% assign experience = 'now' | date: '%Y' | minus: 2017 | divided_by: 1 | ceil %}
+{% assign meta_url = 'rodrigodornelles.github.io' %}
+{% assign meta_title = 'Rodrigo Dornelles Curriculo' %}
+{% assign meta_image = 'https://opengraph.githubassets.com/' | append: unixtimestamp | append: '/rodrigodornelles/rodrigodornelles.github.io' %}
+{% assign meta_description = 'Profissional com' | append: experience | append: 'anos de experiência em desenvolvimento de firmware, backend e devops.' %}
 <html lang="pt-BR">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>cv-rodrigo-dornelles-{{ 'now' | date: '%Y-%m-%d' }}</title>
+    <title>cv-rodrigodornelles-{{ 'now' | date: '%Y-%m-%d' }}</title>
     <style>{% include "./style.css" %}</style>
+    <meta name="title" content="{{ meta_title }}" />
+    <meta name="description" content="{{ meta_description}}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ meta_url }}" />
+    <meta property="og:title" content="{{ meta_title }}" />
+    <meta property="og:description" content="{{ meta_description }}" />
+    <meta property="og:image" content="{{ meta_image }}" />
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="{{ meta_url }}" />
+    <meta property="twitter:title" content="{{ meta_title }}" />
+    <meta property="twitter:description" content="{{ meta_description }}" />
+    <meta property="twitter:image" content="{{ meta_image }}" />
   </head>
   <body>
     <main>{{ content }}</main>

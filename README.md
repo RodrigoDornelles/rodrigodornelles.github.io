@@ -18,7 +18,7 @@ Desenvolvedor com 7 anos de experiência comprometido com a integridade e qualid
 
 ### Infraestrutura cloud
 
-Com uma vasta experiência em servidores privados (VPS), cloud (Oracle) e on-premise. Tenho um histórico comprovado de arquitetar servidores de produção e desenvolvimento, desde a instalação física de dispositivos até a configuração de ambientes dinâmicos e automatizados. Minha expertise abrange todas as etapas do processo, garantindo infraestrutura robusta e eficiente.
+Com uma vasta experiência em servidores privados (VPS), cloud OCI (Oracle) e on-premise. Tenho um histórico comprovado de arquitetar servidores de produção e desenvolvimento, desde a instalação física de dispositivos até a configuração de ambientes dinâmicos e automatizados. Minha expertise abrange todas as etapas do processo, garantindo infraestrutura robusta e eficiente.
 
 <!--
 
@@ -30,9 +30,11 @@ Sou um entusiasta no desenvolvimento de jogos, com um profundo interesse em expl
 
 ### Soft Skills e Liderança
 
-Tenho habilidade para unir pessoas e impulsionar projetos. Atuo como uma ponte entre equipes, constantemente pesquisando maneiras de aprimorar processos e me envolvendo profundamente em projetos que me interessam. Naturalmente, assumo papéis de liderança em iniciativas de melhoria.
+`soft skills: artistic, curiosity, creativity, team work, resilience, work under pressure, presentation skills.`
 
-## Experiência profissional
+Tenho habilidade para unir pessoas e impulsionar projetos. Atuo como uma ponte entre equipes, constantemente pesquisando maneiras de aprimorar processos e envolvendo profundamente em projetos que interessam. Naturalmente, assumo papéis de liderança em iniciativas de melhoria.
+
+## Experiência profissional `work history`
 
 ### Analista em SRE DevSecOps Groovy, Python, Lua - 09/2023 - atualmente <br>Creare Sistemas LTDA.
 
@@ -52,13 +54,13 @@ Desenvolvimento de melhorias no sistema antifraude utilizado em caixas eletrôni
 
 Responsabilidade de arquitetar e acompanhar infraestrutura para suportar em torno 2.0000.000 (dois milhões) de acessos diários, liderar equipe com 4 pessoas, e supervisionar o desenvolvimento dos projetos. Desenvolvimento e publicação de projetos web em ambiente de produção, foram mais de 30 prefeituras, também mais de 15 câmaras e conselhos profissionais.
 
-## Projetos e Conquistas
+## Projetos e Conquistas `achievements and recognition`
 
 ### Colaborador do framework Fastify - Javascript, Typescript - 05/2024
 
 > Um dos maiores frameworks nodejs com mais de 1.500.000 downloads por semana.
 
-Sou o principal mantenedor do plugin oficial [fastify-elasticsearch](https://github.com/fastify/fastify-opensearch) e me tornei um membro ativo da comunidade após contribuir para bibliotecas como [fastify-oauth2](https://github.com/fastify/fastify-oauth2), além de realizar melhorias na documentação, tipagem e ajudar a planejar novos recursos para o ecossistema.
+Sou o principal mantenedor do plugin oficial [fastify-elasticsearch](https://github.com/fastify/fastify-opensearch) e também um membro ativo da comunidade contribuindo para bibliotecas como [fastify-oauth2](https://github.com/fastify/fastify-oauth2), além de realizar melhorias na documentação, tipagem e ajudar a planejar novos recursos para o ecossistema.
 
 ### Criação de biblioteca frontend - Typescript - 12/2023
 
@@ -84,7 +86,7 @@ Sou o principal mantenedor do plugin oficial [fastify-elasticsearch](https://git
 
 Organizadora da competição foi a marca chinesa PCBWAY, fabricante de placas de circuitos, disputa ocorreu entre diversos participantes inclusive renomados em desafios de construção de “badges”.
 
-## Formação acadêmica
+## Formação acadêmica `education`
 
 ### Técnico em Tecnologia da Informação - 03/2016 a 07/2018<br>Alcides Maya
 

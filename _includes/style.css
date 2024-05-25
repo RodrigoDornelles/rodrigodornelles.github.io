@@ -17,6 +17,12 @@ main {
     margin: 0;
 }
 
+code {
+    display: block;
+    font-size: 0.5px;
+    color: white;
+}
+
 p {
     font-size: 85%;
     text-align: justify;
@@ -55,6 +61,10 @@ h2 {
     color: white;
     background-color: #222;
     padding: 2px;
+}
+
+h2 code {
+    color: #222;
 }
 
 h3 {

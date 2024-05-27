@@ -3,95 +3,70 @@ layout: template.liquid
 permalink: /
 ---
 
-# Rodrigo Barbosa Dornelles
+# Luiz Gasparino
 
-* **Email:** [rodrigo.dornelles.poa@gmail.com](mailto:rodrigo.dornelles.poa@gmail.com)
-* **Linkedin:** [linkedin.com/in/rodrigo-poa](https://linkedin.com/in/rodrigo-poa)
-* **Github:** [github.com/rodrigodornelles](https://github.com/rodrigodornelles)
-* **Whattsapp / Fone:** [+55 (51) 981496505](https://wa.me/+5551981496505)
+* **Email:** [luizgasparino48@gmail.com](mailto:luizgasparino48@gmail.com)
+* **Linkedin:** [linkedin.com/in/llgasparino](https://linkedin.com/in/llgasparino)
+* **Whattsapp / Fone:** [+55 (41) 995966299](https://wa.me/+5541995966299)
 
 ## Resumo de habilidades
 
-### Programação
+### Especialista em Suporte Técnico
 
-Desenvolvedor com 7 anos de experiência comprometido com a integridade e qualidade das aplicações. Foco na manutenção do código e excelência do projeto é essencial para garantir a longevidade e confiabilidade do sistema de software. Sempre atento aos padrões da indústria, como técnicas avançadas, boas práticas, ISOs e RFCs, utilizando as linguagens de programação mais eficientes em resolver os problemas, para assegurar que os produtos entregues sejam de alta qualidade e atendam às expectativas dos clientes.
+Atuo como técnico de informática a 6 anos de forma autônoma, realizando Diagnóstico e reparo de computadores, substituição de peças, instalação de sistemas operacionais, solução de problemas de rede, sempre de forma ágil, mantendo comprometimento e responsabilidade total com todos meus clientes, aprimorando minhas certificações sempre que possível, como Google IT Support Professional  e Google Data Analysis Professional. 
 
-### Infraestrutura cloud
+### Programação 
 
-Com uma vasta experiência em servidores privados (VPS), cloud OCI (Oracle) e on-premise. Tenho um histórico comprovado de arquitetar servidores de produção e desenvolvimento, desde a instalação física de dispositivos até a configuração de ambientes dinâmicos e automatizados. Minha expertise abrange todas as etapas do processo, garantindo infraestrutura robusta e eficiente.
-
+A 2 anos aprendendo diversas linguagens de programação e aplicando na prática algumas integrações de banco de dados em alguns projetos que fiz por conta. Utilizando Python, R, SQL, C#, Java, e algumas APIs para montar dashboards e integrando IoT.
 <!--
 
-### Desenvolvimento de jogos
+### Hobbies
 
-Sou um entusiasta no desenvolvimento de jogos, com um profundo interesse em explorar como os jogos superam limitações técnicas através de novas mecânicas. No meu tempo livre, dedico-me a criar jogos homebrew para consoles antigos, desafiando minha criatividade e capacidade de extrair o máximo do hardware disponível.
-
+Gosto muito de ler e estudar, amo ver filmes clássicos e sempre que posso eu vejo. Gosto muito de me organizar e listar praticamente tudo na minha vida. Gosto muito de livros de administração e de mindset.
 -->
 
 ### Soft Skills e Liderança
 
-`soft skills: artistic, curiosity, creativity, team work, resilience, work under pressure, presentation skills.`
+`soft skills: artistic, curiosity, creativity, team work, resilience, work under pressure, presentation skills, good habits.`
 
-Tenho habilidade para unir pessoas e impulsionar projetos. Atuo como uma ponte entre equipes, constantemente pesquisando maneiras de aprimorar processos e envolvendo profundamente em projetos que interessam. Naturalmente, assumo papéis de liderança em iniciativas de melhoria.
+Tenho habilidades para unir pessoas e impulsionar projetos. Atuo como intermediário e observador, tendo uma análise crítica, constantementte pesquisando maneiras de aprimorar processos e envolvendo profundamente em projetos que interessam. Naturalmente, assumo papéis de liderança em iniciativas de melhoria.
 
 ## Experiência profissional `work history`
 
-### Analista em SRE DevSecOps Groovy, Python, Lua - 09/2023 - atualmente <br>Creare Sistemas LTDA.
+### Estágiario em Infraestrutura de Redes - 03/24 - 06/24 <br>Bellinati Perez
 
-> Empresa do ramo de logistica e inteligencia no setor agro.
+> Empresa do ramo teleatendimento e cobrança de ativos.
 
-Reconhecido como funcionário destaque no primeiro mês de trabalho por trazer melhorias no processo de desenvolvimento de softwares na empresa, Pesquisar sobre migração de servidores para processadores ARM a fim de reduzir custos e melhorar o desempenho, Pesquisa e elaboração de técnicas e documentações para compliance da ISO 27001, Desenvolvimento de sistema de auditoria para os produtos utilizados pelos clientes da empresa, Inovar os pipelines permitindo uma configuração mais simples de build para java, kotlin, flutter, node, typescript. (tanto mobile quanto backend e backend), Integração entre os sistemas devops como kubernets keycloak, ldap, github, sonarqube, nexus, zabbix, jenkin e jira.
+Aprendi e pude colocar em prática todos os meus conhecimentos da parte de redes e linux que eu conhecia, junto aos meus colégas de trabalho pude aplicar funções de DevOps como Ansible, integrando playbooks de melhoria e pude colaborar com a migração de servidores antigos para versões mais atuais. Criação de máquinas virtuais usando VMware e monitoramento utilizando Zabbix e Grafana. Instalação de clusters e dockers virtuais. Atendimento a chamados via GLPI com SLA. Pude configurar diversos switches e Acess Points.
 
-### Analista em desenvolvimento de firmware - C ANSI, Python - 04/2022 a 03/2023 <br>Perto S.A. Periféricos para Automação
+### Aprendiz Assistente Administrativo - 10/2021 a 06/2023 <br>Ns Group
 
-> Industria multinacional brasileira referencia no setor bancário.
+> Holding de porte médio, com segmento alimentício.
 
-Desenvolvimento de melhorias no sistema antifraude utilizado em caixas eletrônicos (ATMs), adicionar suporte de novos fornecedores para firmware de impressoras térmicas e anti-fraude, Pesquisar inteligência artificial na utilização em sensores de estacionamento e cofres inteligentes, Começar uma nova cultura devops de implementação de testes unitários e automatização de CI/CD no time de engenharia.
-
-### Analista em desenvolvimento web backend - PHP, Javascript - 09/2017 a 03/2022<br>Dynamika Soluções WEB LTDA.
-
-> Empresa de comunicação do ramo de licitações para sites intitucionais.
-
-Responsabilidade de arquitetar e acompanhar infraestrutura para suportar em torno 2.0000.000 (dois milhões) de acessos diários, liderar equipe com 4 pessoas, e supervisionar o desenvolvimento dos projetos. Desenvolvimento e publicação de projetos web em ambiente de produção, foram mais de 30 prefeituras, também mais de 15 câmaras e conselhos profissionais.
-
-## Projetos e Conquistas `achievements and recognition`
-
-### Colaborador do framework Fastify - Javascript, Typescript - 05/2024
-
-> Um dos maiores frameworks nodejs com mais de 1.500.000 downloads por semana.
-
-Sou o principal mantenedor do plugin oficial [fastify-elasticsearch](https://github.com/fastify/fastify-opensearch) e também um membro ativo da comunidade contribuindo para bibliotecas como [fastify-oauth2](https://github.com/fastify/fastify-oauth2), além de realizar melhorias na documentação, tipagem e ajudar a planejar novos recursos para o ecossistema.
-
-### Criação de biblioteca frontend - Typescript - 12/2023
-
-> superou os 1.000 downloads.
-
-[Gamepadzilla](https://github.com/RodrigoDornelles/npm-gamepadzilla) surgiu da falta de alternativas adequadas para o um projeto. É uma solução simples, rápida e sem dependências, sendo a única que conta com testes unitários. Além de resolver o problema, preencheu uma lacuna que outras bibliotecas não conseguiram suprir.
-
-### Criação de um jogo para console dos anos 1980 - C ANSI, Assembly - 12/2022
-
-> com cerca de 380% de performance em relação aos jogos da época.
-
-[Kokobatoru](https://psywave-games.github.io/coco-battle-royale-2/) foi um jogo estilo homebrew desenvolvido em C e Assembly de 6502, onde pude entender melhor sobre computação e reinventar como pensar enquanto programava em um hardware bastante limitado.
-
-### Criação de uma linguagem de programação - C ANSI - 12/2021
-
-> superou os 1.000 downloads e pode ser instalado em 25 plataformas.
-
-[3BC](https://3bc-lang.org) Language é um Interpretador de linguagem em baixo nível, desenvolvida com o foco de aprendizado e desenvolvimento de produtos programáveis, é capaz de funcionar desde de computadores antigos da década de 70, videogames, embarcados, navegadores, containers e até computadores modernos ou mainframes.
-
-### 2° Lugar em concurso internacional de PCB artísticas - 12/2020
-
-> PCBWAY é uma das maiores empresas de PCB no mundo.
-
-Organizadora da competição foi a marca chinesa PCBWAY, fabricante de placas de circuitos, disputa ocorreu entre diversos participantes inclusive renomados em desafios de construção de “badges”.
+Auxiliava na criação de Dashboards utilizando Power BI e Tableau, Pude auxiliar na atualização de todo o sistema de controle de estoque que era utilizado, Lançamento de Notas e geração de relatórios com sistema SAP.
+Junto ao curso de Aprendiz pelo SENAI, pude aprender muitas normas e regras administrativas e aprimorar ainda minhas habilidades com pacote office.
 
 ## Formação acadêmica `education`
 
-### Técnico em Tecnologia da Informação - 03/2016 a 07/2018<br>Alcides Maya
+### Análise e Desenvolvimento de sistemas - 06/2023 a 12/2025<br>PUCPR
 
-Arquitetura de Computadores, Redes de Computadores, Análise de Sistemas,  Metodologia para Elaboração de projetos.
+Lógica da programação, SQL, C#, HTML, CSS, JAVASCRIPT, JAVA, POO, PYTHON, Gestão de TI.
 
-### Menor Aprendiz em Automação Industrial - 03/2014 a 11/2015<br>SENAI Visconde de Mauá
+### Data Analysis Professional Certificate - 01/2024 a 05/2024<br>Google
 
-Elétrica Predial, Elétrica Industrial, Eletropneumática, Automação Industrial, Proteção do meio ambiente e segurança do trabalho.
+Qualidade e produtividade, Cabeamento, Manutenção de computadores, Suporte de TI, IPv4, Suporte de hardware de TI, Cibersegurança, Redes de computadores, Tecnologias de rede sem fio, Administração de redes.
+
+### IT Support Professional Certificate - 01/2024 a 04/2024<br>Google
+
+Análise de dados, Analytical Skills, SQL, Data Analysis, Visualização de dados, Modelagem de dados, Estudos de caso, Python, Power BI, Tableau, Excel.
+
+### Junior cibersecurity Analyst - 04/2024 a 07/2024<br>Cisco
+
+Segurança cibernética, ameaças, vulnerabilidades, ataques, CIA Triad, monitoramento de segurança, ferramentas de segurança, detecção de intrusões, IDS, IPS, resposta a incidentes, análise de malware, investigação forense digital, avaliação de vulnerabilidades, gestão de patches, segurança de redes, segmentação de rede, firewalls, segurança de redes sem fio, segurança de sistemas operacionais, normas, regulamentações, políticas de segurança, laboratórios, simulações, Wireshark, Splunk, a habilidades de comunicação, operações de segurança, resposta a incidentes.
+
+### Assistente Administrativo - 10/2021 a 06/2023<br>Senai
+
+Relações Socioprofissionais, Cidadania e Ética, Saúde e Segurança do Trabalho, Planejamento e Organização do Trabalho, Noções de Direito, Comunicação Empresarial, Comunicação e Tecnologias, Tratamento e Gerenciamento de Dados Quantitativos, Raciocínio Lógico e Análise de Dados, Processos Administrativos Financeiros, Processos Administrativos Comerciais e de Produção, Rotinas 
+
+
+
